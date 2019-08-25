@@ -1,5 +1,3 @@
-# Basic RSA Encryption
-
 Performs basic RSA Encryption of ASCII characters using small numbers for efficiency and ease of demonstration.
 
 ## Sample Output
